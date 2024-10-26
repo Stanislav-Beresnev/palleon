@@ -1,0 +1,10 @@
+{
+  "name": "palleon",
+  "version": "1.0.0",
+  "description": "A set of tools for creating contrasting themes",
+  "main": "index.js",
+  "repository": "https://github.com/Stanislav-Beresnev/palleon.git",
+  "author": "Stanislav Beresnev <berstanislav@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
